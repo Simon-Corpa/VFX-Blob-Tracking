@@ -9,7 +9,6 @@ Cabe decir que lo común es usar esta clase de efectos en vídeos estáticos (ej
 | Pillow | OpenCV |
 |--------|--------|
 | <img width="657" height="750" alt="image" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJLHUtLfgZY6l0RHOzi7MwbQoOWispKbakObCSuYSpeLACyHRUujwMZPhyphenhyphenC_jdemzhVBxfUo4WdrN4vh5LejeFy2gCFaKkp9LoGHXrg4YYBfcaeaIg23bw0kmhtLT91rLuHe-ANgl5hD8/s1600/pillow.png"/> | <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/e8aa3727-dbcc-498b-9001-0128ad41509a" />
- |
 
 
 ## Resumen de funciones
