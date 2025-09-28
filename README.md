@@ -9,7 +9,9 @@ Cabe decir que lo común es usar esta clase de efectos en vídeos estáticos (ej
 
 
 
-https://github.com/user-attachments/assets/bd4d4aa2-eec5-4e25-aa02-2413bacd170d
+https://github.com/user-attachments/assets/5e2460bb-6c13-4a06-b4c8-8e5f4876935a
+
+
 
 Vídeo con buena definición: [¡aquí!](https://www.youtube.com/watch?v=BJIZrktP8bw)
 
