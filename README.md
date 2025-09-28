@@ -4,7 +4,16 @@ VFX Blob Tracking busca encontrar una alternativa al flujo de trabajo en TouchDe
 El método cuenta con parametros para ajustar las variables de detección de bordes, frecuencia de puntos y distancia entre puntos; además de inputs para un tratamiento estético más versatil (colores, grosores de linea y aleatoriedad de tamaño de los cuadrados representados). Permite además incorporar tipografias para la representación del texto y agregar vídeos máscara para filtrar las regiones en las que se detectan puntos con el fin expreso de conseguir el efecto que se muestra en el vídeo.
 
 Cabe decir que lo común es usar esta clase de efectos en vídeos estáticos (ejp. con tripode) donde el movimiento es muy puntual:
+
 [Muestra de @sssynthomo del efecto con input de una toma estática de baile contemporaneo](https://youtube.com/shorts/PoDn1tz1Cec?si=2_q3ozgYkUUwM9JN)
+
+
+
+https://github.com/user-attachments/assets/bd4d4aa2-eec5-4e25-aa02-2413bacd170d
+
+Vídeo con buena definición: [¡aquí!](https://www.youtube.com/watch?v=BJIZrktP8bw)
+
+## Librerias
 
 | Pillow | OpenCV |
 |--------|--------|
